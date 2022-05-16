@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkrunn
-- 👀 I’m interested in learining programming languages
+- 👀 I’m interested in learning programming languages
 - 🌱 I’m currently learning python
 - 📫 You can reach me by my email: marcos.isouzak@gmail.com
 
